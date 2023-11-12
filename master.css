@@ -1,0 +1,11 @@
+
+*{
+    background-color: black;
+}
+.my-canv {
+    border: 1px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
